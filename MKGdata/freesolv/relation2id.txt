@@ -1,0 +1,27 @@
+26
+contain	0
+isAbundanceOf	1
+isBoilingPointOf	2
+isCategoryOf	3
+isConductivityOf	4
+isDensityOf	5
+isElectronAffinityOf	6
+isElectronTransfer	7
+isElectronegativityOf	8
+isElementOf	9
+isFamilyof	10
+isFormulaOf	11
+isFunctionalGroupOf	12
+isHardnessOf	13
+isHeatEnergyOf	14
+isInteraction_with_water	15
+isIonizationEnergyOf	16
+isMeltingPointOf	17
+isModulusOf	18
+isPeriodOf	19
+isPolarityOf	20
+isRadiusOf	21
+isSeriesOf	22
+isSmartOf	23
+isStateOf	24
+isWeightOf	25
